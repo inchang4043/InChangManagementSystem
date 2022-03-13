@@ -1,5 +1,5 @@
 
-public class MenuManager {
+public class InChangMenu {
 
 	public static void main(String[] args) {
 		System.out.println("1. Add hobby");
@@ -8,5 +8,4 @@ public class MenuManager {
 		System.out.println("4. View hobby");
 		System.out.println("5. Exit");
 	}
-
 }
